@@ -1,0 +1,478 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+.corp
+{
+   
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+.titre
+{
+    font-family: 'Crete Round' , serif;
+    font-size: 45px;
+    text-shadow: 6px 6px 0px black;
+    
+   
+}
+header
+{
+    height: 120px;
+    background-color: #424558;
+    border: 1px solid ;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
+#phrase
+{
+    text-align: center;
+    font-family: cursive;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#intro
+{
+    
+    margin-bottom: 50px;
+    border: 10px solid orange;
+    width: 850px;
+    text-align: center;
+    font-family: cursive;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin: 100px auto;
+    
+}
+.menu
+{
+    display: table;
+    margin: 0 auto;
+    width: 100%;
+    border
+}
+nav
+{
+    width: 100%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #424558;
+}
+nav ul 
+{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+nav li
+{
+    list-style-type: none;
+    float: left;
+}
+nav a
+{
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px 30px;
+    color: #fff;
+}
+.lien-acceuil:hover
+{
+    border-top: 5px solid #e44d26;
+    background-color: RGBa(228, 77, 38, 0.15);
+}
+.lien-district:hover
+{
+     border-top: 5px solid #BBB;
+    background-color: RGBa(220, 220, 220, 0.15);
+}
+.lien-recette:hover
+{
+   border-top: 5px solid #f1dc4f;
+    background-color: RGBa(000, 112, 192, 0.15);   
+}
+.lien-contact:hover
+{
+    border-top: 5px solid #0070bb;
+    background-color: RGBa(241, 211, 79, 0.15);
+}
+nav li:hover a{
+    
+   padding: 15px 30px 20px 30px;
+}
+/*
+header h1
+{
+    
+    float: left;
+    margin-top: 32px;
+    color: white;
+    
+}
+header nav
+{
+    
+    float:right;
+    margin-top: 10px;
+    
+    
+    
+    
+}
+header nav ul li
+{
+    float: left;
+    display: inline-block;
+}
+header nav ul li a
+{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 20px;
+    color: white;
+}
+*/
+.point
+{
+    color: orangered;
+    font-size: 50px;
+}
+#district
+{
+     
+    font-family: cursive;
+    margin-left: 250px;
+}
+
+#main
+{
+    margin-top: 100px;
+    height: 800px;
+    width: 100%;
+    background: url(garba.jpeg) center;
+    background-repeat: repeat;
+    border-radius: 20px;
+}
+h2
+{
+    font-weight: normal;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 100px 0 40px 0;
+    margin-bottom: 90px;
+    font-size: 50px;
+    color: aliceblue;
+}
+#button
+{
+    text-align: center;
+    display: block; 
+    width: 120px;
+    height: 50px;
+    background: blue;
+    color: #fff;
+    font-size: 20px;
+    margin: 0 auto;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 3px;
+    
+    
+    
+}
+#button:hover
+{
+    border-top: 5px solid red;
+    background-color: RGBa(241, 211, 79, 0.15);
+}
+#ci
+{
+    text-align: center;
+    border: 10px solid orange;
+    border-radius: 20px;
+}
+
+
+#tableau
+{
+    border-collapse: collapse;
+    width: 800px;
+    margin-left: 40px;
+   
+}
+td
+{
+    border: 1px solid black;
+    background-color: beige;
+    font-family: Tahoma;
+}
+
+th
+{
+    border: 1px solid black;
+    background-color:cornsilk;
+    
+}
+
+
+/**********************************************/
+
+#general
+{
+   position: relative;
+    
+}
+.brd
+{
+    
+     
+    border-radius: 12px;
+}
+
+.rectt
+{
+    background-color: white;
+    text-align: center;
+    color: azure;
+    font-family: serif;
+   /* */
+   
+}
+
+.image
+{
+    background-color: green;
+text-align: center;
+    border-radius: 20px;
+    box-shadow: 6px 6px 0px orange;
+}
+.mode
+{
+    background-color: green;
+
+    border-radius: 20px;
+    box-shadow: 6px 6px 0px orange;
+}
+
+
+
+
+#gene1
+{
+     position: relative;
+     margin-top: 100px;
+    
+}
+#gene2
+{
+     position: relative;
+     margin-top: 20px;
+    
+}
+
+#gene3
+{
+    position: relative;
+    margin-top: 20px;
+}
+#gene4
+{
+    position: relative;
+    margin-top: 20px;
+}
+#gene5
+{
+    position: relative;
+    margin-top: 20px;
+}
+#gene6
+{
+    position: relative;
+    margin-top: 20px;
+}
+#gene7
+{
+    position: relative;
+    margin-top: 20px;
+}
+#gene8
+{
+    position: relative;
+    margin-top: 20px;
+}
+#gene9
+{
+    position: relative;
+    margin-top: 20px;
+}
+#gene10
+{
+    position: relative;
+    margin-top: 20px;
+}
+#gene11
+{
+    position: relative;
+    margin-top: 20px;
+}
+#gene12
+{
+    position: relative;
+    margin-top: 20px;
+}
+#gene13
+{
+    position: relative;
+    margin-top: 20px;
+}
+
+
+#table
+{
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a:hover
+{
+    color:green;
+}
+a:activer
+{
+    color: red;
+}
+a:visited
+{
+    color:#888888;
+}
+
+
+
+
+/* contacte*/
+#contact
+{
+    padding: 60px 0;
+    text-align: center;
+    margin-top: 500px;
+}
+#contact h3
+{
+    width: 400px;
+   text-transform: uppercase;
+    margin: 0 auto 20px auto;
+    border-bottom: 1px solid #02b8dd;
+    padding-bottom: 20px;
+    
+}
+form
+{
+    margin: 40px 0 20px 0;
+    
+}
+label
+{
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 10px;
+    color: #777;
+    
+}
+input[type="text"]
+{
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 20px;
+    border: 20px solid #ddd;
+    border-radius: 3px;
+}
+.button-4
+{
+    color:#fff;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 11px;
+    background-color: #02b8dd;
+    border-style: none;
+    border-radius: 3px;
+}
+.button-4:hover
+{
+    color:#fff;
+    
+    background-color: #444;
+    
+}
+
+
+
+/* ************************************/
+footer
+
+{
+    margin-top: 1px;
+    background-color: #444;
+    height: 200px;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.titre
+{ 
+    color: white;
+    text-align: center;
+    
+}
+
+#copyright
+{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 3px;
+    color: #777;
+}
