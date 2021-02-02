@@ -1,7 +1,7 @@
 # Petit-d-lice-ivoirien
-plongez vous à la decouverte des plats invoirien et leurs recettes miam
+plongez vous à la decouverte des plats ivoirien et leurs recettes miam
 
-ce site est fait avec du HTML et CSS pendant ma premiere année de licence
+    Ce site a été codé en HTML et CSS pendant ma premiere année de licence MPSI à ULCO
 
 # Lien du site 
 ```bash
